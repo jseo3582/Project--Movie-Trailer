@@ -18,7 +18,7 @@ poster_image
 trailer_youtube
 ```
 ### 2. movie.py
-> movie data stored at `movie.py`
+- movie data stored at `movie.py`
 
 ### 3. fresh_tomatoes.py
 - Create Html file
