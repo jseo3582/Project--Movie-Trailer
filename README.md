@@ -6,7 +6,7 @@ Source code for a Movie Trailer website.
 ## Usage
 ## 
 ## Copyright and Licensing
-_media.py_ is a public domain work, dedicated using [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/). Feel free to do whatever you want with it.
+'media.py' is a public domain work, dedicated using [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/). Feel free to do whatever you want with it.
 
 
 
