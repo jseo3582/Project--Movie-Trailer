@@ -28,7 +28,7 @@ trailer_youtube
 ## Add a new movie on the website
 - Entire data stored in `movie.py`, so you should editing this file.
 - In order to adding a new movie following this instruction.
-##### Step 1. add new informations
+#### Step 1. add new informations
 - Copy the code below and replace each element.
 ```
 An instance of a movie = media.Movie("title of movie",
@@ -43,7 +43,7 @@ toy_story = media.Movie("Toy Sotry",
                         "http://www.cultjer.com/img/ug_photo/2015_09/32772420150915154419.jpg",
                         "https://youtu.be/KYz2wyBy3kc")
 ```
-##### Step 2. Add the instance at movie
+#### Step 2. Add the instance at movie
 - You must add the instance what you choose at the step 1 to `movie = [HERE]`
 - `movie = [HERE]` find at end of the code in `media.py`
  
