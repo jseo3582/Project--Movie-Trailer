@@ -5,11 +5,6 @@ toy_story = media.Movie("Toy Sotry",
 	"A story of a boy and his toys that come to life",
 	"https://images-na.ssl-images-amazon.com/images/M/MV5BMDU2ZWJlMjktMTRhMy00ZTA5LWEzNDgtYmNmZTEwZTViZWJkXkEyXkFqcGdeQXVyNDQ2OTk4MzI@._V1_SY1000_SX670_AL_.jpg",
 	"https://youtu.be/KYz2wyBy3kc")
-#test lines
-#print(toy_story.storyline)
-#toy_story.show_trailer()
-
-
 
 pianist = media.Movie("Pianist",
 	"A Polish Jewish musician struggles to survive the destruction of the Warsaw ghetto of World War II.",
