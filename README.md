@@ -25,9 +25,11 @@ trailer_youtube
 
 > `media.py`
 > data stored in `movie.py
-## # In order to adding a new movie
-#### 1. add new informations
-- **Copy the code below and replace each element.**
+## Add a new movie on the website
+- Entire data stored in `movie.py`, so you should editing this file.
+- In order to adding a new movie following this instruction.
+##### Step 1. add new informations
+- Copy the code below and replace each element.
 ```
 An instance of a movie = media.Movie("title of movie",
                                     "story of movie",		      
@@ -41,24 +43,17 @@ toy_story = media.Movie("Toy Sotry",
                         "http://www.cultjer.com/img/ug_photo/2015_09/32772420150915154419.jpg",
                         "https://youtu.be/KYz2wyBy3kc")
 ```
-#### 2. Add the instance at movie
-> add the desinated instance what you choose at step 1 to `movie = [HERE]`
-This `movie = [HERE]` find at end of the code in `media.py`
+##### Step 2. Add the instance at movie
+- You must add the instance what you choose at the step 1 to `movie = [HERE]`
+- `movie = [HERE]` find at end of the code in `media.py`
+ 
 
 - _An example_
 > if you are adding a movie *__Iron Man__*
 If you give a instance as `iron_man`, the instance should inside of the list `movie = []`
-
 ```
 movie = [Iron_Man]
 ```
 
-
-
-## 
-
 ## Copyright and Licensing
 The 'movie.py' is a public domain work, dedicated using [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/). Feel free to do whatever you want with it.
-
-
-
