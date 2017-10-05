@@ -20,7 +20,7 @@ main_page_head = '''
             background-color: #141414;
         }
         #trailer .modal-dialog {
-            margin-top: 280px;
+            margin-top: 150px;
             width: 1280px;
             height: 960px;
         }
