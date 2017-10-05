@@ -1,6 +1,6 @@
 # Movie Trailer Website
 This source code for a Movie Trailer website.
-+ Every code was written or tested Python 2.7.14
+Every code was written or tested with Python 2.7.14.
 ## Installation
 Excuting `movie.py` will automatically generate html file and open this page.
 
