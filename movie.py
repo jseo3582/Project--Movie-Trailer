@@ -1,6 +1,7 @@
 import media
 import fresh_tomatoes
 
+# movie data start here
 toy_story = media.Movie("Toy Sotry",
 	"A story of a boy and his toys that come to life",
 	"https://images-na.ssl-images-amazon.com/images/M/MV5BMDU2ZWJlMjktMTRhMy00ZTA5LWEzNDgtYmNmZTEwZTViZWJkXkEyXkFqcGdeQXVyNDQ2OTk4MzI@._V1_SY1000_SX670_AL_.jpg",
@@ -61,6 +62,9 @@ act_of_valor = media.Movie("Act Of Valor",
 	"https://images-na.ssl-images-amazon.com/images/M/MV5BMTY3NDQxMDAzM15BMl5BanBnXkFtZTcwNzEyNjgzNw@@._V1_SY1000_CR0,0,674,1000_AL_.jpg",
         "https://youtu.be/ZnlPgo9TaGo")
 
-# this is a list
+# This is a list of instances. Unless you add the instance here, the web page will not show the movie.
 movies = [toy_story, pianist, schindlers_list, pearl_harbor, tears_of_the_sun, furious_seven, star_trek_into_darkness, saving_private_ryan, black_hawk_down, we_were_soldiers, the_hurt_locker, act_of_valor]
+
+# Excuting this code and open the webpage
 fresh_tomatoes.open_movies_page(movies)
+
