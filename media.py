@@ -5,11 +5,12 @@ class Movie():
 
     # centents are defined here
     def __init__(
-        self, 
+        self,
         movie_title,
         movive_storyline,
         poster_image,
         trailer_youtube):
+
     self.title = movie_title
     self.storyline = movive_storyline
     self.poster_image_url = poster_image
