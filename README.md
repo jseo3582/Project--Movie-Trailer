@@ -21,8 +21,8 @@ trailer_youtube
 - movie data stored at `movie.py`
 
 ### 3. fresh_tomatoes.py
-- Create Html file
-- all the setting detail stored
+- You can download the original `fresh_tomatoes.py` file [here](https://github.com/udacity/ud036_StarterCode). 
+- All the setting detail stored
 - For example, 'trailer video size' can change by editing `trailer .modal-dialog` section
 
 ## Add a new movie on the website
@@ -57,5 +57,3 @@ movie = [Iron_Man]
 
 ## Copyright and Licensing
 The 'movie.py' is a public domain work, dedicated using [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/). Feel free to do whatever you want with it.
-
-
