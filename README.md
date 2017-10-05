@@ -19,12 +19,10 @@ trailer_youtube
 > movie data stored at `movie.py`
 
 ### 3. fresh_tomatoes.py
-- create Html file and ~ by
-- trailer video size can change by editing `trailer .modal-dialog` section
+- Create Html file
+- all the setting detail stored
+- For example, 'trailer video size' can change by editing `trailer .modal-dialog` section
 
-
-> `media.py`
-> data stored in `movie.py
 ## Add a new movie on the website
 - Entire data stored in `movie.py`, so you should editing this file.
 - In order to adding a new movie following this instruction.
@@ -57,3 +55,5 @@ movie = [Iron_Man]
 
 ## Copyright and Licensing
 The 'movie.py' is a public domain work, dedicated using [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/). Feel free to do whatever you want with it.
+
+
