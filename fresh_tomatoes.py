@@ -39,7 +39,7 @@ main_page_head = '''
             padding-top: 10px;
         }
         .movie-tile:hover {
-            background-color: #141400;
+            background-color: #34343a;
             cursor: pointer;
         }
         .scale-media {
