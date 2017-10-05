@@ -4,14 +4,10 @@ This source code for a Movie Trailer website.
 ## Installation
 Excuting `media.py` will automatically generate html file and open this page.
 
-## Usage
+## Files
 This code composed with three python files.
-
-> stored at `fresh_tomatoes.py`
-- create Html file and ~ by
-- trailer video size can change by editing `trailer .modal-dialog` section
-> `media.py`
-- Movie _class_ defined in this file
+### 1. media.py
+- `Movie` _class_ defined in this file
 - Four data set was defined as following order.
 ```
 movie_titile
@@ -19,8 +15,17 @@ movive_storyline
 poster_image
 trailer_youtube
 ```
+### 2. movie.py
+> movie data stored at `movie.py`
+
+### 3. fresh_tomatoes.py
+- create Html file and ~ by
+- trailer video size can change by editing `trailer .modal-dialog` section
+
+
+> `media.py`
 > data stored in `movie.py
-- In order to adding a new movie, 
+## # In order to adding a new movie
 #### 1. add new informations
 - **Copy the code below and replace each element.**
 ```
@@ -37,11 +42,16 @@ toy_story = media.Movie("Toy Sotry",
                         "https://youtu.be/KYz2wyBy3kc")
 ```
 #### 2. Add the instance at movie
-- add the desinated instance what you choose at step 1 to `movie = [HERE]`
-- This `movie = [HERE]` find at end of the code in `media.py`
+> add the desinated instance what you choose at step 1 to `movie = [HERE]`
+This `movie = [HERE]` find at end of the code in `media.py`
 
+- _An example_
+> if you are adding a movie *__Iron Man__*
+If you give a instance as `iron_man`, the instance should inside of the list `movie = []`
 
-
+```
+movie = [Iron_Man]
+```
 
 
 
