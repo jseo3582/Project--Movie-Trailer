@@ -7,12 +7,10 @@ This source code for a Movie Trailer website.
 > data stored in 'media.py'
 
 '''
-pianist = media.Movie("_title of movie_",
 
-		      "_story of movie_",
-		      
-		      "_movie poster link_",
-		      
+an instance of a movie = media.Movie("_title of movie_",
+		      "_story of movie_",		      
+		      "_movie poster link_",		      
 		      "_movie trailer video link_")
 '''
 
