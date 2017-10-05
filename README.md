@@ -2,7 +2,7 @@
 This source code for a Movie Trailer website.
 
 ## Installation
-Excuting `media.py` will automatically generate html file and open this page.
+Excuting `movie.py` will automatically generate html file and open this page.
 
 ## Files
 This code composed with three python files.
